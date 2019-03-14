@@ -1,0 +1,238 @@
+<A>
+        (( CaptainTwigTV opening screen with title of "Communication" ))
+    <A1 time=3s "Squad version 12.xx at time of recording" />
+    <A2 time=5s "Link to short version" />
+</A>
+<B>
+        [[ Scene of being pinned by a vehicle on the hill (in Kohat?) ]] [[Running around the streets during mortar fire]]
+</B>
+
+<FML time=3s>
+    (( "Types of communication" ))
+</FML>
+
+<C>
+        [[ Standing at the firing range ]]
+    <C1 { Press Enter to open menu }/>
+    <C2 { Press Tab to cycle through and send one of each } />
+</C>
+
+-----
+
+<D>
+        [[ Scene with annoying chat spam ]]
+    <D1 [ part where annoying things are happening ] />
+    <D2 time=1s "Don't be that guy =/" />
+</D>
+
+<E>
+        [[Scene with person asking for help during staging]]
+</E>
+
+<F>
+        [[Scene with mortar marks on the map]]
+</F>
+
+-----
+
+<G p=1>
+        [[ Standing on firing range ]]
+    <G1 "Local Chat (V)" />
+    <G2 [[ From another's perspective, me backing up as I read this line ]], "The sound of the player's voice gets softer as the distance increases" />
+</G>
+
+<H>
+        [[ Scene with local chat that ultimately gets drowned out ]]
+    <H1 (( Pause and highlight the indicator )) />
+    <H2 [[ Gameplay with explosions drowning out a local chat ]] />
+</H>
+
+<I>
+        [[ Scene with driving in logi and chatting before all blowing up ]]
+    <I1 [ We all blow up ] />
+</I>
+
+<J>
+        [[ Scene where I talk with the vehicle while running around ]]
+    <J1 [ Gameplay clip where I talk in second person to someone ] />
+    <J2 [ Gameplay clip where I let a vehicle know where we're building a repair station ] />
+</J>
+
+<FML2>
+        (( "Squad Chat (B)" ))
+</FML2>
+
+<K>
+        [[ Scene of general combat using squad chat ]]
+    <K1 (( highlight the green icon ))/>
+    <K2 time=3s "Squad Chat (B)" />
+</K>
+
+<FML3>
+        (( "Command Chat (G)" ))
+</FML3>
+
+<L>
+        [[ Scene of general combat using command chat ]]
+    <L1 (( highlight the white icon ))/>
+    <L2 time=3s "Command Chat (G)" />
+    <L3 [gameplay of the squad leader not responding in that one awesome game in talil outskirts] />
+</L>
+
+<M p=1+>
+        [[ Scene where I'm browing around Squad Zero discord voice chats ]]
+</M>
+
+<N p~1>
+        [[ Scene where I ultimate ask doginclothes to go push to talk ]]
+    <N1 [Gameplay where I'm asking doginclothes to push to talk, including the double voice] />
+</N>
+
+<O>
+        [[ Scene where I browse around Discord showing settings related to this, changing to V then back to =. ]]
+</O>
+
+<P>
+        [[ Scene of generic gameplay ]]
+</P>
+
+<Q>
+        (( "Callouts" ))
+</Q>
+
+<R>
+
+</R>
+
+<S>
+        ((( Bring up the names on the screen over a high up view of a map with an open hill )))
+</S>
+
+<T>
+        (( Type of Report ))
+</T>
+
+<U>
+
+</U>
+
+<V>
+        [[ Scene demonstrating initation of hard contact ]]
+</V>
+
+<W>
+        [[ Scene demonstrating initation of soft contact ]]
+</W>
+
+<X>
+        
+</X>
+
+<Y p=1>
+        [[ The gameplay of me diving to the ground when I hear gunfire, if I didn't delete it ]]
+</Y>
+
+<Z>
+        [[ Scene where we held fire to let somebody run away ]]
+    <Z1 [ Gameplay where our squad leader orders us to let a guy run the other way before engaging ] />
+</Z>
+
+<FML4>
+        (( "Orientation" ))
+</FML4>
+
+<AA>
+        [[ Scene of running for cover in unexpected engagement ]]
+</AA>
+
+<BB p=1>
+        [[ Scene standing at Jensen's Range ]]
+    <BB1 [ Physically spin around to find 252 on the compass and shoot person ] />
+</BB>
+
+<CC p=1>
+        [[ Demo of NW callout while facing SE ]]
+    <CC1 [[ Demo of 326 callout while facing 139, and getting shot ]] />
+</CC>
+
+<DD>
+        (( Demo of how one orientation line varies wildly in degrees... can screen record a Gimp session ))
+</DD>
+
+<EE p=1-3>
+        [[ Vehicle turning optics to commander's degree ]]
+</EE>
+
+<FF p=2>
+        [[ Medic reviving a teammate while an enemy is in a MG nest shooting at something else ]]
+</FF>
+
+<GG>
+        [[ Generic battle footage ]]
+</GG>
+
+<HH p=2>
+        [[ Inside transport seeing a tank to the left ]]
+</HH>
+
+<II>
+       (( Gimp demo of infantry having different definitions of "fromt" )) 
+</II>
+
+<JJ>
+        (( "Identification of Contact" ))
+</JJ>
+
+<KK>
+        [[ Generic gameplay of entering an engagement and running for cover ]]
+</KK>
+
+<LL>
+        (( "Distance" ))
+</LL>
+
+<MM>
+        [[ Generic scene of entering an engagement and running for cover ]]
+</MM>
+
+<NN>
+        (( "Additional Information" ))
+</NN>
+
+<OO>
+        [[ Scene of attacking the town in that one awesome battle ]]
+</OO>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<A></A> tags are for individual visual scenes (video clip sources)
+
+<A1 /> - describes an intra-scene change/effect
+
+[[ are for describing what visual clip to use ]]
+
+Scene - no audio, only visual
+
+Gameplay - audio and video
+
+"" - display on the screen the text here
+
+(( Describe a still image/manipulation of still image ))
+
+{ Describes what is actively being done in demo }
+
+p=1 - creating will require one person's help
