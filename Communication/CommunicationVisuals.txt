@@ -203,15 +203,31 @@
         [[ Scene of attacking the town in that one awesome battle ]]
 </OO>
 
+<PP>
+        (( "Passing Information" ))
+</PP>
 
+<QQ>
+        [[ Scene where I advised SL about something ]]
+    <QQ1 [ Gameplay where I give the Be Advised shoutout ] />
+</QQ>
 
+<RR>
+        (( "Map Markers" ))
+</RR>
 
+<SS p=8>
+        [[ Scene of map open in a random game with examples ]]
+    <SS1 [[ Example of me being completely alone on a point ]] />
+</SS>
 
+<TT>
+        (( "Final Remarks" ))
+</TT>
 
-
-
-
-
+<UU>
+        [[ Scene of attacking the town in that one awesome battle ]]
+</UU>
 
 
 

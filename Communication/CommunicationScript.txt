@@ -18,7 +18,7 @@
 	<C1>
 		You can type messages at the bottom, which by default will send to all players on the server.
 	<C2>
-		Pressing Tab will alternate between sending the message to All, just your team, and just your squad. The messages are color coded to be red if sent by an enemy in all and green if sent by a teammate.
+		Pressing Tab will cycle between sending the message to All, just your team, and just your squad. The messages are color coded to be red if sent by an enemy and green if sent by a teammate.
 </C>
 
 -----
@@ -54,7 +54,7 @@
 	<H1>
 		in the bottom left of the screen with your name displayed. This will display if you are in the sound radius of another teammate as well, which can help identify who is talking.
 	<H2>
-		Sometimes you can see the indicator but not hear anything; if that happens they're not talking, their mic isn't working, they are too far away, or they are just being drowned out by the noice of gunfire and battlefield chaos. As such, be aware of your surroundings when using local chat to make sure the other teammeate can hear you.
+		Sometimes you can see the indicator but not hear anything; if that happens they're not talking, their mic isn't working, they are too far away, or they are just being drowned out by the noice of gunfire and battlefield chaos. As such, be aware of your surroundings when using local chat to make sure the intended teammeate can hear you.
 </H>
 
 <I>
@@ -79,7 +79,7 @@
 		Squad Chat, as the name implies, is sent to all of your squad mates. It has a default key binding of B, and is indicated by a green icon 
 	<K1> 
 	<K2>
-		in the bottom left. This chat can be heard at the same volume at all distances since it's through the soldier's head sets, or whatever in-game explanation makes you happy. It's important to keep communication in the squad channel concise. Your Squad Leader will often have several people talking to him or her at the same time, so try to keep the squad chat empty unless there's important information to convey to ALL of your squad mates. Keeping this channel clean is so important that I recommend adhering to a dedicated callout system, which I'll cover shortly.
+		in the bottom left. This chat can be heard at the same volume at all distances since it's through the soldier's head sets, or whatever in-game explanation makes you happy. It's important to keep communication in the squad channel concise. Your Squad Leader will often have several people talking to him or her at the same time, so try to keep the squad chat empty unless there's important information to convey to ALL of your squad mates. Keeping this channel clean is so important that I recommend adhering to a dedicated callout system, which I'll cover shortly. When talking in squad chat, avoid using the first person. In most cases your squad mates can't identify you by your voice, and even if they can it's something else for them to be focusing on other than what you have to say, and if they're too slow to look down and read your name before you finish talking they won't know who just reported something. The solution is to refer to yourself in the third person, for example: "Lat is moving to engage", or "Captain Twig is going to assist this downed blueberry".
 </K>
 
 <FML3>
@@ -95,7 +95,7 @@
 </L>
 
 <M>
-		The final chat is any external application, like Discord, Twitch... anything that's not a part of the game. This will obviously be reserved for whatever friends or group or organization you are playing with. 
+		The final chat is any external application, like Discord, Twitch... anything that's not a part of the game itself. This will obviously be reserved for whatever friends or group or organization you are playing with. 
 		As a default be sure to adhere to any specific rules or guidelines that group provides. 
 </M>
 
@@ -110,7 +110,7 @@
 </O>
 
 <P>
-		Try to default to using in-game chats overall though, because it encourages better communication with other teammates and more teamwork oriented gameplay as a whole. I sometimes hear these chats being used for unrealated chatter during games... although it's generally difficult to focus on the game fully while talking about other things so I don't usually recommend this. The most useful application of an external chat is to provide custom grouping of people for a fourth channel. The best use case in my opinion is to create fireteam chat groups that can be populated in-game, giving a more defined role for the Fireteam Leaders. There can be a multisquad channel, but it gets cluttered VERY quickly so I recommend only having one member from each different squad in the chat. Overall you will find that juggling all of these chats can be very mentally taxing, so keeping simple is generally a good idea.
+		Try to default to using in-game chats overall though, because it encourages better communication with other teammates and more teamwork oriented gameplay as a whole. I sometimes hear these chats being used for unrealated chatter during games... although it's generally difficult to focus on the game fully while talking about other things so I don't usually recommend this. The most useful application of an external chat is to provide custom grouping of people for a fourth channel. The best use case in my opinion is to create fireteam chat groups that can be populated in-game, giving a more defined role for the Fireteam Leaders Obviously this will only work for pre-defined squad layouts. There can be a multisquad channel, but it gets cluttered VERY quickly so I recommend only having one member from each different squad in the chat. Overall you will find that juggling all of these chats can be very mentally taxing, so keeping simple is generally a good idea.
 </P>
 
 <Q>
@@ -130,7 +130,7 @@
 </T>
 
 <U>
-		This first phase informs the group that you are about to report something. It gives a moment for your teammates to stop re-adjust what they're doing and focus in to your report. Having this consistent introduction to your report will help teammates understand you during battlefield chaos, as the key opening words are reserved for reports that will be easier to pick out.
+		This first phase informs the group that you are about to report something. It gives a moment for your teammates to stop, re-adjust what they're doing and focus in to your report. Having this consistent introduction to your report will help teammates understand you during battlefield chaos, as the key opening words are reserved for reports that will be easier to pick out.
 </U>
 
 <V>
@@ -142,7 +142,7 @@
 </W>
 
 <X>
-		When in hard contact, the Type of Report is "Contact". If somebody gives a report that starts with "Contact" you can instantly understand you are in or are about to be in contact without needing to wait for the first shots or additional information.	
+		When in hard contact, the Type of Report is "Contact". If somebody gives a report that starts with "Contact" you can instantly understand you are in or are about to be in danger without needing to wait for the first shots or additional information.	
 </X>
 
 <Y>
@@ -221,49 +221,30 @@
         Last in the contact report is any additional information to help friendlies locate the contact. Examples include "skylineing", "by the treeline", "lying down on the hill", "by the big rocks", "second story of the yellow house", and so on. It's the least important as it is specifically for the later phase in reacting to contact, but is still a very important component to help return accurate fire as quickly as possible.
 </OO>
 
+</PP>
+-----
+</PP>
 
+<QQ>
+        When passing information I prefer to preface it with "Be Advised". This helps to specify that I'm not making a knock knock joke or saying something random... but rather I'm about to say something important that's distinctly NOT a contact report where bullets are about to start flying. For example "Be advised, Squad 2 is taking casualties behind us" or "Be advised, there are no squads defending the point".
+    <QQ1>
+</QQ>
 
+<RR>
+-----
+</RR>
 
+<SS>
+        One additional method of communication is through the map. Concise use of markers can help other squad leaders quickly understand your intent, and help to plan based on that information to help support your squad in the best way. For example it's good practice to mark where you intend to build a fob. so others can plan around that. In addition, putting move markers on the map can help other squad leaders understand that you are moving with your squad, which helps prevent defend points being left completely empty. The mortar marks are a fantastic way of communicating where you want somebody in your squad to fire mortars, and has the added bonus of communicating to your teammates that you intend to bomb an area which will help prevent friendly fire. Marking enemy locations on the map is helpful, and pretty common sense so I'll gloss over that.
+    <SS1>
+        One common practice to avoid is to give reports assuming people know you by your voice and location at all times. On the map you show up as one of eight other green arrows, so in order to find your location a squad leader usually must go into the menu on the left, find your name, click on it, then find where the ping is. When possible it's easer to report those positions by ping, which is right clicking on the map, looking in the corner to get your coordinates, or giving some kind of reference that's easy to find on the map.
+</SS>
 
+<TT>
+----- 
+</TT>
 
-
-
-
-
-
-
-Passing information
-	-Be Advised
-		-Lets group know that this isn't a contact report but rather just passing general observations/indormation
-		-Ex: "Be advised, there are no squads defending the point", or "Be advised, Squad 2 is taking casualties behind us" 
-
----------------------------------------
-
-Map markers
-	-Great to communicate where you intend to build a fob
-	-Can communicate where you are going to fire mortars, or where you request another squad to fire mortars
-	-Let your teammates know where you are seeing enemy contact
-		-more importantly vehicles
-	-Putting move markers on the map can help other squad leaders know your intent, and plan their maneuvers around you, or in coordination with you
-		-Can put path markers as well for the same reasons, when it makes sense to do so
-
-Remember to let your common sense prevail in making exceptions to the rule
-	-Ex: In a logi if you see a tank rolling over the hill to your left you can just call out "Tank Left" instead of trying to form a pretty and well joined call of "Contact Left; Tank; 30 meters"... your driver knows exactly how to react in that situation and doesn't need that extra information.
-	-Steps can be ommitted as time allows
-
-
-
-
-
-<S>
-		When talking in squad chat, avoid using the first person. In most cases your squad mates can't identify you by your voice, and even if they can it's something else for them to be focusing on other than what you have to say. The solution is to refer to yourself in the third person, for example: "Lat is moving to engage", or "Captain Twig is going to assist this downed blueberry".
-</S>
-
-<T>
-		In addition, try to be as explicit as possible
-</T>
-
-
-
-
+<UU>
+        Remember that these are just guidelines, and to let common sense prevail in making exceptions to the rules. Unexpected contact is the easiest exampe, where you'll often need to cut corners due to time constraints. With a well designed system the impact of these constraints will be minimized due to pre-prioritizing the information to report.
+</UU>
 
