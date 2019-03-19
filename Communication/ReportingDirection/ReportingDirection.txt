@@ -1,0 +1,73 @@
+<Intro>
+        Hello, this is Cacti Twig as part of the Squad Zero Community Group. This video will explain some best practices that I have observed about reporting directions during contact reports. Of course this is just one perspective and shouldn't be taken as gospel, as there are many equally valid systems that can exist.
+</Intro>
+
+<A>
+        The benefit of concise directional reporting is twofold: First, it allows friendly forces to rapidly adjust to contact by taking more effective cover, and helps prevent a teammate from inadvertantly running into the enemies' field of fire. Second, it allows friendly forces to identify the enemy and return accurate fire more effectively, which both neutralizes the engaging force and suppresses them, buying a few more precious seconds for friendlies to shield themselves from incomming fire.
+</A>
+
+<B>
+        The three ways to report orientation are 
+    <B1> 
+        relative directions, 
+    <B2> 
+        cardinal directions, and 
+    <B3> 
+        compass bearings. All three are important and have their appropriate use cases. Understanding when to use each will greatly increase the effectiveness of your entire unit.
+</B>
+
+<Title1 />
+
+<C>
+        Relative directions are best suited to when everybody you're talking to is locked into a fixed point of reference. This will generally be while in a vehicle, for which the front of the vehicle is the fixed point of reference,
+</C>
+
+<D>
+        or when travelling as a very small group when it is certain that everybody is focusing on the same reference point. The most important thing is that if you call "front", "left", "right", or "rear" that EVERYBODY can understand EXACTLY what you mean INSTANTLY.... WITHOUT knowing YOUR physical location or bearing.
+</D>
+
+<E>
+        For this reason I generally advise against using relative directions as an infantry unit. Meaning can be very rapidly lost as infantry begins maneuvering through terrain or other pathing 
+    <E1>
+        that isn't part of an EXTREMELY tight formation. In that case a "Contact Front" can lead to confusion that can put a friendly into the enemies line of sight, even if only for a momentary disadvantage. Every second your teammates are focusing on interpreting your callout is a second they are unable to effectively protect themselves and engage the enemy.
+</E>
+
+<Title2 />
+
+<F>
+        Cardinal Directions are a good balance between clarity and brevity in a report, and work best when communicating with friendlies that are spaced out, or when there is uncertainty in whether one of the other methods is more appropriate. When in contact your teammates generally only need to know the basic direction to look and they are going to be able to figure it out from there. Cardinal directions help avoid being too vague or micromanaging your teammates' focus and attention as well. Even when using other methods of reporting direction, it is often useful to give the cardinal direction before going into more detail to allow faster reaction time from your unit.
+</F>
+
+<Title3 />
+
+<G>
+        Compass Bearings are the most precise method of communicating directions in a contact report, as it gives a specific degree from players current position. When in vehicles this is a great way to quickly identify targets as everybody is confined within a fixed reference. When you are very close to one particular teammate, giving a compass bearing can quickly get that teammate looking exactly where you want them to. When doing so, it is helpful to be explicit that you are giving THEM a compass bearing instead of reading yours and expecting them to figure it out from there. For example, the report "Infantry on your 252" can make it very verbose that you are giving that person a specific bearing... contrast to just "Infantry 252", for which it can be implied that you are just blindly reading your compass, forcing the teammate to mentally evaluate whether that unit directly applies to them or not.
+</G>
+
+<H>
+        Another thing to consider is that for compass bearings it's ideal to give them when your teammate is already facing roughly the direction you're calling out. This is because most people can't immediatly identify where any specific degree is
+    <H1>
+        without first looking at their compass and physically spinning around.
+</H>
+
+<G>
+        For example, if I hear "Contact NorthWest" and I'm facing roughly SouthEast, then I immediatly know the contact is roughly behind me. 
+    <G1>
+        Whereas if I hear "Contact 326", look at my compass and see 139 then I need to pause for a moment to think about how that relates to me.
+    <G2>  
+        Of course you can learn to do it; but in my opinion learning to do this isn't worth the effort for most people. It's very taxing to mentally keep track of your exact degree of orientation at all times, as it is much more efficient to keep track of the general cardinal direction you are facing and moving.
+</G>
+
+<I>
+        Direction demo
+</I>
+
+<J>
+        I make this point because it's common practice in other games like PUBG and Fortnite where you and a partner are always close to each other. In Squad you're usually dealing with 8 other players who have much more variable spacing and orientations. Again this is just my own stylistic flavor; if you can make it work, more power to you... but I personally do NOT recommend it unless you have a very good reason for doing so.
+</J>
+
+<K>
+        Everything said, it's best to overcommunicate than undercommunicate as a general rule, so never be so afraid of choosing the wrong callout type that you keep quite entirely. As you gain more experience playing the game the situations when each type is optimal will become more apparent, and it will be something to continuously develop.
+</K>
+
+      

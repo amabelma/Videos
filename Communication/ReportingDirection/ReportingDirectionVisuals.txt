@@ -1,0 +1,70 @@
+<Intro>
+        (( "Reporting Directions in Contact Reports" ))
+</Intro>
+
+<A>
+        [[ Scene of taking contact and returning fire ]]
+</A>
+
+<B>
+        (( Slides giving the name of each and a very cartoon-graphic illustration of each ))
+    <B1 (( Top of truck with Front, Left, Right, Rear written out )) />
+    <B2 (( Top of soldier with N, NE, E, ESE, SE, SSE, S, SW, W, NW )) />
+    <B3 (( Top of soldier with 360 degrees overlaid )) />
+</B>
+
+<Title1 (( "Relative Directions" )) />
+
+<C p=2-10>
+        [[ Video of people climbing into and driving a logi down a road from an above angle ]]
+</C>
+
+<D p=2>
+        [[ Video of a fireteam maneuvering to a mosque or tower in Chora ]]
+</D>
+
+<E p=9>
+        [[ Video of a squad moving towards a target where their personal directions vary ]]
+    <E1  (( Screenshot of video where the directions of each soldier are superimposed, i.e. one may be thinking about hooking a little farther north, another a little farther south then west, and another going straight to the target )) />
+</E>
+
+<Title2 (( "Cardinal Directions" )) />
+
+<F>
+        [[ Scene of taking contact and returning fire ]]
+</F>
+
+<Title3 (( "Compass Bearings" )) />
+
+<G p=2-10>
+        [[ Demo of spotting for somebody on shooting range]]
+</G>
+
+<H>
+
+</H>
+
+<I>
+        Direction demo
+</I>
+
+<J>
+
+</J>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
