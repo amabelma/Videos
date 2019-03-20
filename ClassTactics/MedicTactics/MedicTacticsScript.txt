@@ -1,0 +1,30 @@
+<Intro>
+        Hello, this is Cacti Twig as part of the Squad Zero Community Group. This video will address many best practices for playing as a medic in the most effective way possible.
+</Intro>
+
+<A>
+
+</A>
+
+
+1.) Equipment
+    -Below average firepower
+    -8 bandages compared to 2
+    -medbag
+    -3 smoke grenades
+        -2 white
+        -1 faction color
+
+2.) Communication
+    -Let them know you intend to assist them
+    -Provide situational awareness
+
+3.) Squad related interactions
+
+4.) 
+
+
+
+
+
+
