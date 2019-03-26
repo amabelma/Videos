@@ -1,0 +1,123 @@
+<Intro>
+        Hello, this is Cacti Twig as part of the Squad Zero Community Group. This video will address at a high level some best practices relating to communication at the squad level in the game Squad.
+</Intro>
+
+<A>
+		Because squad chat isn't distance dependent and is easily cluttered, when communicating to your squad it's optimal to have a concise and consistent way to do so. This is an overview of one possible callout system, although it is of course not the only way of doing so and everything here can be mixed and moved around to meet your specific needs in your specific contexts.
+</A>
+
+<B>
+		There are four basic stages of a callout: Type of Report, Orientation, Identification of Contact, and Additional Information. The reason for this order is importance of information; I prefer the most important information to come first so that if something happens and the report can't be finished the most critical information has been shared.
+</B>
+
+<C>
+-----
+</C>
+
+<D>
+		This first phase informs the group that you are about to report something. It gives a moment for your teammates to stop existing communication, re-adjust what they're doing and focus in to your report. Having a consistent introduction to your report will help teammates understand you during battlefield chaos, as the key opening words are reserved for reports that will be easier to pick out.
+</D>
+
+<E>
+		There are two basic types of contact that occur: Hard and Soft contact. Hard contact is contact where the enemy sees you, or is actively being engaged even if they can't see you to accurately return fire.
+</E>
+
+<F>
+		Soft contact is where you see the enemy, but they don't see you or aren't being engaged. 
+</F>
+
+<G>
+		When in hard contact, the Type of Report is "Contact". If somebody gives a report that starts with "Contact" you can instantly understand you are in or are about to be in danger without needing to wait for the first shots or additional information.	
+</G>
+
+<H>
+		Especially with hard contact, common sense should take precedent over the ideal established system in most contexts. If you enter a room and there's an enemy there, you should immediatly engage them - your gunfire will work as a contact report until you have time to provide a report in more detail.
+</H>
+
+<I>
+		When in soft contact, the Type of Report is "Visual". If a squad leader hears a report that starts with "Visual" he or she can more quickly react to define the rules of engagement, which can help to get the squad into a better position before committing to an engagement, or more quickly starting an engagement to gain an early advantage. Unless discussed in advance it's generally good to ask permission to engage when in soft contact. The element of surprise can make a huge difference, and sometimes that first enemy you see will have run too far away to participant in the fight if the team holds back, which give you an  advantage.
+	<I1>
+</I>
+
+<J>
+-----
+</J>
+
+<K>
+		The second part of a contact report is the orientation. This comes second because teammates can immediatly react with this information, after knowing there is something to react to in the first place. Knowing what direction contact is in allows cover to be taken more effectively, and helps prevent a friendly from inadvertantly running into the enemies field of fire.
+</K>
+			
+<L>
+        In most contexts it's best to report directions in the squad channel using the 8 primary cardinal directions. The cardinal directions are intuitive and allow faster reaction time. While it's not perfectly precise, your teammates generally only need the basic direction and are smart enough to figure it out from there. It helps to avoid micromanaging their focus and attention as well. I strongly discourage reporting directions in degrees AT THE SQUAD LEVEL... for example "Contact 252". This is for a few reasons. First, most people can't immediately identify where that specific degree is
+    <L1>
+        without first looking at their compass and physically spinning around.
+</L>
+
+<M>
+        For example, if I hear "Contact NorthWest" and I'm facing roughly SouthEast, then I immediately know the contact is roughly behind me. 
+    <M1>
+        Whereas if I hear "Contact 326", look at my compass and see 139 then I need to pause for a moment to think about how that relates to me. Of course you can learn to do it; but in my opinion learning to do this isn't generally worth the effort. It's very taxing to mentally keep track of your exact degree of orientation at all times, as it is much more efficient to keep track of the general cardinal direction you are facing and moving.
+</M>
+
+<N>
+        One noteworthy exception Vehicle crew coordination in a dedicated vehicle squad, where everybody in your squad is confined within a fixed reference point... in this case degrees are an effective way to quickly pass on very specific orientations for contacts.
+</N>
+
+<O>
+        If inside a transport then relative directions are helpful. For example "Contact Left" works because everybody is locked with the same object of reference.
+</O>
+
+<P>
+        However I advise against using relative directions as an infantry unit because like with degrees meaning can be very rapidly lost as your team begins maneuvering through terrain or other pathing that isn't in an extremely tight formation. In that case a "Contact Front" can lead to some miscommunications that can put a friendly into the enemies line of sight, even if only for a momentary disadvantage. 
+</P>
+
+<Q>
+        This is largely a stylistic opinion, but I find that Squad differs from some other games within the same genre in that the gameplan can rapidly change and squads often find themselves scattered a little as they start taking casualties. When this happens confusion with these relative directions over squad chat are common. There certainly is a time and place for relative directions, but it's a bit out of scope for this video.
+</Q>
+
+<R>
+        Distance to the contact can either be included with the orientation, or if it's not urgent later as additional information. Priority for reporting distance is first relative measure then your best estimate in meters. Exact precision isn't as important as just letting your teammates know approximately how threatening the contact is, as well as helping to find the enemy to return accurate fire. I recommend defaulting to a relative unit of measure because it can be made without opening the map to check, generally leading to a faster contact report.
+</R>
+
+<S>
+-----
+</S>
+
+<T>
+        Identifying the contact itself is third because it can help provide context for what types of cover and positions are ideal, and also whether this is an engagement worth fighting, or whether a withdrawl or peeling procedure is necessary. This is pretty straightforward; common calls are "single infantry", "MRAP", "full squad", "straggler", "enemy radio", "enemy fob", "enemy rally point"... you get the idea.
+</T>
+
+<U>
+-----
+</U>
+
+<W>
+        Last in the contact report is any additional information to help friendlies locate the contact. Examples include "skylineing", "by the treeline", "lying down on the hill", "by the big rocks", "second story of the yellow house", and so on. It's generally the least time sensitive as it useful after finding protection from the contact, but is still a very important component to help return accurate fire as quickly as possible.
+</W>
+
+
+
+</Y>
+-----
+</Y>
+
+<Z>
+        When passing generic information I prefer to preface it with "Be Advised". This helps to specify that I'm not making a knock knock joke or saying something random... but rather I'm about to say something important that's distinctly NOT a contact report where bullets are about to start flying. For example "Be advised, Squad 2 is taking casualties behind us" or "Be advised, there are no squads defending the point".
+    <Z1>
+</Z>
+
+<AA>
+-----
+</AA>
+
+<BB>
+        While this is a framework for optimizing squad channel communications, I encourage you to allow common sense to override any specific guideline in the moment. For example, if I unexpectedly run into an enemy I may just yell out "contact close" as I engage, which is much shorter and still conveys that everybody in the squad is in imminent danger.
+</BB>
+
+<CC>
+        So that completes this high level overview of some best practices with intra-squad communication. There are definitely some more nuanced sub-topics that can be covered in the future, but for now if you have a fundamental understanding of the concepts covered here and the pros and cons of each it'll go a long way towards helping communications stay effective and concise. 
+</CC>
+
+
+
+

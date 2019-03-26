@@ -1,29 +1,66 @@
 <Intro>
-        Hello, this is Cacti Twig as part of the Squad Zero Community Group. This video will address many best practices for playing as a medic in the most effective way possible.
+        Hello, this is Cacti Twig as part of the Squad Zero Community Group. This video will address at a high level some best practices relating to the medic class in the game Squad.
 </Intro>
 
-<A>
+<Title1 />
 
+<A>
+        A squad gains access to the medic class at X members, and can have a second medic once Y members are in a squad for a maximum of two. The medic has the lowest firepower of all other classes, although exact armament varies between factions.
+    <A1>
 </A>
 
+<B>
+        A medic has eight field dressings, normally referred to as bandages, instead of the two all other classes have. They also have a unique item... the medbag. The medbag can be used to recover health of other teammates with left click and yourself with right click.
+</B>
 
-1.) Equipment
-    -Below average firepower
-    -8 bandages compared to 2
-    -medbag
-    -3 smoke grenades
-        -2 white
-        -1 faction color
+<C>
+         Medics have three smoke grenades... two white smoke grenades and one faction specific color.
+</C>
 
-2.) Communication
-    -Let them know you intend to assist them
-    -Provide situational awareness
+<D>
+        Finally medics have the unique ability to see when teammates are bleeding or have less than full health... visually at a range of X meters and on the map.
+</D>
 
-3.) Squad related interactions
+<title2 />
 
-4.) 
+<E>
+        If you get downed during gameplay, don't immediatly give up. It generally takes at least thirty seconds to be able to respawn anyway, and the battlefield can change very quickly. There are many situations that look hopeless on the map that can result in you being revived faster than you would think. 
+</E>
 
 
+
+
+
+
+
+
+
+
+3.) If you get downed, don't give up 
+	-takes ~30 seconds to respawn anyway and the field can change very quickly
+		-many hopeless looking situations shift faster than you would think
+	-only exceptions are when given specific instructions (spawning main, rally point has 5-15 seconds, squad moving past)
+	-slowing the pace down gives you an advantage in nearly all cases (focus, tempo, control, risk assessment; this isn't COD)
+
+4.) Take your time reviving a teammate
+	-most enemies have ADD and will shift their focus within 10-30 seconds
+	-hearing the bandage sound will attract enemy grenades/movement in close quarters <me rushing bandage>
+	-fallen teammate can work as soft cover AFTER ~15 seconds have passed
+	-ALWAYS defer reviving to a medic if possible (they have 8 bandages and you have 2, save yours for yourself to increase the surviability of the unit)
+
+5.) Communicate
+	-A good medic will always be keeping tabs on who's up and down
+		-A non-medic teammate will not, let them know when you're dropped if there's no medic nearby
+	-Use local chat whenever possible to avoid cluttering comms (if they're too far away to hear you they're generally too far away to help anyway)
+	-Inform your fireteam that you intend to revive the downed player (for optional cover, clearance, suppression... work with that you got)
+	-Let the downed teammate know if you're attempting to revive them
+		-tell them if you will be attempting after clearing a room/corner etc.
+	-Provide the downed teammate with situational information whenever possible
+		-while downed you lose most situational awareness so pay attention
+	-Give the downed teammate instructions for what to do immediatly upon revival
+		-ex: "Watch East", "Move down the hill", "don't move", "cover me while I heal that other guy", "run for cover North"
+	-ALWAYS follow those instructions since the medic has more awareness than you
+		-function as an informal fireteam with the medic until you get passed off to safety as a general rule, help cover/suppress while they revive other teammates and move to safety (context depending)
 
 
 

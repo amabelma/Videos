@@ -1,0 +1,119 @@
+<Intro>
+        [[ Intro screen ]]
+</Intro>
+
+<A>
+        [[ Scene of fighting into the one compound while taking mortar fire from friendlies ]]
+</A>
+
+<B>
+        ((( Bring up the names on the screen over a high up view of a map with an open hill )))
+</B>
+
+<C>
+        (( Type of Report ))
+</C>
+
+<D>
+        [[ Scene of general combat, tight streets in awesome game with mortar fire ]]
+</D>
+
+<E>
+        [[ Scene demonstrating initation of hard contact ]]
+</E>
+
+<F>
+        [[ Scene demonstrating initation of soft contact ]] - on the big kohat hill
+</F>
+
+<G>
+        [[ Scene with any general initiation of contact ]]
+</G>
+
+<H>
+        [[ Scene of storming the conpound after leaving the BTR ]]
+</H>
+
+<I>
+        [[ Scene where we held fire to let somebody run away ]] - on hill
+    <I1 [ Gameplay where our squad leader orders us to let a guy run the other way before engaging ] />
+</I>
+
+<J>
+        (( "Orientation" ))
+</J>
+
+<K>
+        [[ Scene of running for cover in unexpected engagement ]]
+</K>
+
+<L p=2>
+        [[ Scene standing at Jensen's Range ]]
+    <L1 [ Physically spin around to find 252 on the compass and shoot person ] />
+</L>
+
+<M p=2>
+        [[ Demo of NW callout while facing SE ]]
+    <M1 [[ Demo of 326 callout while facing 139, and getting shot ]] />
+</M>
+
+<N p=1-3>
+        [[ Vehicle turning optics to commander's degree ]]
+</N>
+
+<O p=3>
+        [[ Inside transport seeing a tank to the left ]]
+</O>
+
+<P>
+       (( Gimp demo of infantry having different definitions of "front" )) 
+</P>
+
+<Q>
+        [[ Scene of map where a squad is fragmented after taking casualties ]]
+</Q>
+
+<R>
+
+</R>
+
+<S>
+        (( "Identification of Contact" ))
+</S>
+
+<T>
+        [[ Generic gameplay of entering an engagement and running for cover ]]
+</T>
+
+<U>
+        (( "Additional Information" ))
+</U>
+
+<W>
+        [[ Scene of attacking the town in that one awesome battle ]]
+</W>
+
+<Y>
+        (( "Passing Information" ))
+</Y>
+
+<Z>
+        [[ Scene where I advised SL about something ]]
+    <Z1 [ Gameplay where I give the Be Advised shoutout ] />
+</Z>
+
+<AA>
+        (( "Final Thoughts" ))
+</AA>
+
+<BB>
+        [[ Scene of running into enemies close ]]
+</BB>
+
+<CC>
+        (( Ending frame with Cacti Twig and Squad Zero info as well as the topic name ))
+</CC>
+
+
+
+

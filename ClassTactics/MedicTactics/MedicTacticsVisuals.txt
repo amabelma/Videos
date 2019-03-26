@@ -1,14 +1,30 @@
 <Intro>
         (( "Proper Medicquette" ))
+        (( "squad version 12.X" ))
 </Intro>
 
-<A>
+<Title1  (( "Equipment" )) />
 
+<A>
+        [[ Scene of members joining a squad and the medic roles becomming available ]]
+    <A1  (( Chart of armament for all factions' medics )) />
 </A>
 
+<B>
+        [[ Scene on firing range selecting items ]]
+</B>
 
+<C>
+        [[ Overlay of all factions throwing colored smoke grenades ]]
+</C>
 
+<D>
+        [[ Scene of being able to see teammates bleeding and at lower health ]]
+</D>
 
+<title2  (( "Best Practices" )) />
 
-
+<E>
+        
+</E>
 
