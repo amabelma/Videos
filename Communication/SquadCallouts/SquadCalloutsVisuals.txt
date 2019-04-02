@@ -15,20 +15,15 @@
 </C>
 
 <D>
-        [[ Scene of general combat, tight streets in awesome game with mortar fire ]]
+        [[ Scene leading up to hard contact ]]
+    <D1 [ Scene demonstrating initation of hard contact ] />
 </D>
-
-<E>
-        [[ Scene demonstrating initation of hard contact ]]
-</E>
 
 <F>
         [[ Scene demonstrating initation of soft contact ]] - on the big kohat hill
+    <F1> [ Continuation of hard contact after engaging ]
+    <F2  (( "Contact" )) />
 </F>
-
-<G>
-        [[ Scene with any general initiation of contact ]]
-</G>
 
 <H>
         [[ Scene of storming the conpound after leaving the BTR ]]
@@ -36,7 +31,8 @@
 
 <I>
         [[ Scene where we held fire to let somebody run away ]] - on hill
-    <I1 [ Gameplay where our squad leader orders us to let a guy run the other way before engaging ] />
+    <I1 (( "Visual" )) />
+    <I2 [ Gameplay where our squad leader orders us to let a guy run the other way before engaging ] />
 </I>
 
 <J>
@@ -44,7 +40,8 @@
 </J>
 
 <K>
-        [[ Scene of running for cover in unexpected engagement ]]
+        [[ Scene from awesome game where a brit took cover in the wrong direction relative to me while I was prone next to the HAB ]]
+        <K1 {{ Pause video and draw where the enemy is engaging vs. me. Explain how a sniper was engaging me and didn't report it, so the guy I shot had incorrectly assumed it was coming from the town where we had a plated machine gun set up, putting him directly into my line of fire. }}  />
 </K>
 
 <L p=2>
@@ -59,23 +56,14 @@
 
 <N p=1-3>
         [[ Vehicle turning optics to commander's degree ]]
+        <N1 { looks left to see a tank to the left } />
 </N>
-
-<O p=3>
-        [[ Inside transport seeing a tank to the left ]]
-</O>
 
 <P>
        (( Gimp demo of infantry having different definitions of "front" )) 
+    <P1 [[ Scene of map where a squad is fragmented after taking casualties ]] />
+    <P2 [[ Continuation of game ]] />
 </P>
-
-<Q>
-        [[ Scene of map where a squad is fragmented after taking casualties ]]
-</Q>
-
-<R>
-
-</R>
 
 <S>
         (( "Identification of Contact" ))
