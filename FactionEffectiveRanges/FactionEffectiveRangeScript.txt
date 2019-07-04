@@ -1,0 +1,45 @@
+Hello and welcome, this is Cacti Twig as part of the Squad Zero Community group. This video will be a brief discussion about the effective range of each faction, and how this information can be applied to your future gameplay.
+
+By effective range I mean the optimal distance to engage the opposing team that will maximize your faction's strengths while preventing your opponent from doing the same. There are several factors that influence effective range within a faction: Optics available, Weapons available, synergy of the different classes that compose a 9 person squad, and the opposing faction's strengths with respect to your own.
+
+-Optics-
+
+Optics are pretty self-explanitory - having a stronger optic allows identification and engagement of enemy contacts at a greater range, and prevents the weapon itself from obstructing the view of the shooter for where rounds are landing with respect to the target.
+
+One less obvious but significant influence of optic strength is time to ready the weapon. A larger optic takes more time to ready than an equivalent without one. This may seem minute, but in close quarters combat, particularly indoors, that extra split second can make the difference between your virtual life and death so it's helpful to understand these interactions.
+
+In short-to-mid-range, ..context dependant but generally between 50 and 150 meters, a very strong optic will reduce overall situational awareness while looking in the scope, as it blocks out anything not directly in front of the shooter. While not a particularly huge deal, it's important to understand this and take extra care to ensure proper situational awareness is maintained at all times.
+
+-Weapons Available-
+
+The weapons available to a faction play a significant role in its effective range, as different weapons are optimized for different ranges of engagement. The reasons why are pretty straightforward so to avoid redundancy I'll get deeper into this influence while discussing the individual factions.
+
+-Synergy of Classes Within Squad-
+
+Squad is a game designed for teamwork, and accordingly different classes can support and assist others to maximize offensive and defensive potential. A few examples are riflemen providing ammo bags to give antitank classes additional rockets... a medic, rifleman, or squad leader using binoculars to guide in short-sighted heavy machine gun fire, and a grenadier using smoke grenades to mark high value targets for armored teammates. This is less quantifiable but some more obvious synergies will be referenced later in the video, as it is a large part of the game.
+
+-Faction Review-
+So here I'm going to very briefly cover each faction and give my opinion on their optimal effective ranges. I will generally ignore the marksman classes as all factions contain one and in my opinion it doesn't really influence the optimal range for the entire unit, as ideally you are engaging at a range where you can bring maximum firepower to bear against your opponent. Just keep in mind throughout that these are just guidelines based on my opinions, and context will ALWAYS take precedent over any best practice. 
+
+-US Army-
+The US Army has two primary optics - the M68 and the M150. 
+mid-range, 50-150 meters
+
+-Russian Ground Forces-
+upper-mid or close, 150-300 meters OR < 50
+
+-British Army-
+long-range, 200-400 meters
+
+-Irregular Militia-
+close range, < 100 meters
+
+-Insurgents-
+close range, < 50 meters
+
+-Opposing faction's strengths-
+While different factions independently have optimal effective ranges, remember to take the opposing faction into consideration. For example, if you are playing as the US Army against the British Army, you can go ahead and consider anything under 150 meters to be optimal... as the closer the engagements are the more the Brit's overpowered optics become a burden to them. And vice-versa when playing against the Insurgents, where every additional meter between you and the enemy gives you an advantage over their primitive iron sights. I'm repeating this a lot I know, but it truly is ALWAYS about understanding the situation you're in and having the background knowledge and courage to break your own rules and improvise if you believe it will help put you and your squad into positions to find success.
+
+-Conclusion-
+Optimal effective ranges for the different factions is an important nuance in the game that is easily overlooked. It gives you an opportunity to put yourself and your squad into situations that give you a natural advantage... one that takes no practice or coordination or tedious preparation; in fact it's such a passive advantage that most of your squad probably will never even recognize it but will still benefit from it. Just remember that these are just guidelines, and any faction can find success at any range with strong execution and skill... so don't view these concepts as restrictions during battle. Above all else remember to stay flexible, and don't be afraid to break these rules as you see fit. That's all I have for now, so I hope that you can start to recognize opportunities to utilize this in the future and find it to be generally beneficial. This is Cacti Twig, and until next time take care.
+
